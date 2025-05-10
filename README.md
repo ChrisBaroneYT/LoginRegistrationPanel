@@ -44,8 +44,6 @@ Visit `http://localhost:3000`
 - **Security**: bcrypt, rate limiting
 - **Frontend**: HTML/CSS/JS
 
-![Screenshot](screenshot.png) *(optional)*
-
 > *"Simple but secure auth system"*
 ```
 
@@ -57,5 +55,3 @@ Visit `http://localhost:3000`
    - Core features
    - API reference table
    - Tech stack overview
-
-Tip: Add a screenshot named `screenshot.png` in your repo root if you want the image to appear!
